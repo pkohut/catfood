@@ -6,3 +6,4 @@
   * [Cheat Engine](https://www.cheatengine.org/index.php)
   * [Open Analysis Live](https://www.youtube.com/@OALABS/videos)
   * [Cyber Chef](https://gchq.github.io/CyberChef)
+* Toys
